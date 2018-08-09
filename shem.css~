@@ -1,5 +1,16 @@
 body {
-	Background-color: lightblue;
-
-
+	background-color: grey;
+}
+.center{
+	width: 97%;
+	margin: 0 auto;
+	padding: 30px 0;
+	display: flex;
+	justify-content: center;
+	background-color:#fff;
+}
+.ul-center{
+	width:50%;
+	margin: 0 auto;
+	height: auto;
 }
