@@ -1,27 +1,10 @@
-body {
-	background-color: #e5e5e5;
+.center {
+      text-align: center;
 }
-.center{
-	width: 99%;
-	margin: 0 auto;
-	padding: 30px 0;
-	display: block;
-	background-color:#eee;
+.image {
+      image-align: center;
 }
-.center img{
-	max-width: 100%; 
-  	display: block; 
-  	height: auto;
-  	margin: auto;
-}
-}
-.center p{
-	text-align: center;
-  	min-width:260px;
-  	color:#333;
-}
-.ul-center{
-	width:50%;
-	margin: 0 auto;
-	height: auto;
+.ul-center {
+      text-align: center;
+      height: auto;
 }
